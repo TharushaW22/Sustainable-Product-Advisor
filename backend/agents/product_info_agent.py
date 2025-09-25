@@ -100,3 +100,4 @@ async def get_product_info(query: ProductQuery) -> ProductInfo:
             description=scraped_data.get("description", "No description available"),
             url=url
         )
+   
