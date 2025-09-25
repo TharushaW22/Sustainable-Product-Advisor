@@ -12,8 +12,8 @@ The system is built with four agents:
 
 	Recycling Agent – Suggests recycling and disposal options.
 
-	🏗️ System Architecture
-Diagram
+	
+System Architecture Diagram
 
 
 ![System Diagram](https://i.postimg.cc/02B6tQvc/System-Diagram-2.png)
@@ -36,7 +36,7 @@ Users interact through a web or app interface.
 
 Responsible AI: The system ensures fairness, transparency, and privacy.
 
-🤝 Agent Roles & Communication Flow
+Agent Roles & Communication Flow
 
 	Recommendation Agent → Orchestrates the flow and combines results.
 
