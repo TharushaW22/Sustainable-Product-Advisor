@@ -1,8 +1,7 @@
 # Sustainable-Product-Advisor
-🌍 Sustainable Product Advisor
-📌 Project Overview
+Sustainable Product Advisor
 
-Sustainable Product Advisor is a multi-agent system that helps users discover eco-friendly products, calculate their sustainability scores, and identify recycling options.
+Sustainable Product Advisor is a multi-agent system that helps users discover eco-friendly products, calculate their eco scores, and identify recycling options.
 The system is built with four agents:
 
 	Recommendation Agent – Orchestrates the workflow and integrates results.
