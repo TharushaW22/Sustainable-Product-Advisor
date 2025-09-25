@@ -17,6 +17,8 @@ The system is built with four agents:
 Diagram
 
 
+![System Diagram](https://i.postimg.cc/02B6tQvc/System-Diagram-2.png)
+
 
 Explanation
 
@@ -26,11 +28,11 @@ Users interact through a web or app interface.
 
 	The Product Info Agent retrieves product details from websites such as Patagonia and H&M.
 
-	The Eco Score Calculator Agent analyzes product sustainability based on materials and production practices, then assigns an eco score.
+	The Eco Score Calculator Agent analyzes a product's sustainability based on its materials and production practices, then assigns an eco score.
 
-	The Recycling Agent suggests recycling and disposal methods from the government and brand recycling programs.
+	The Recycling Agent recommends recycling and disposal methods from government and brand-specific recycling programs.
 
-	The Recommendation Agent integrates all results and presents a structured output to the user.
+	The Recommendation Agent integrates all results and recommends alternative products, and presents a structured output to the user.
 
 
 Responsible AI: The system ensures fairness, transparency, and privacy.
